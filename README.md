@@ -19,3 +19,20 @@
 <a href="https://instagram.com/universe.ksa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="universe.ksa" height="30" width="40" /></a>
 </p>
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+🏅 Olympic Games Medal Analysis Dashboard
+
+📌 Overview
+This Power BI dashboard analyzes Olympic medals by:
+- Country
+- Sport
+- Year (Summer & Winter)
+
+📊 Dashboard Preview
+![Dashboard Overview](dashboard_overview.png)
+
+📈 KPI Summary
+![KPI Summary](kpi_summary.png)
+
+🗂 Medals Table
+![Medals Table](medals_table.png)
