@@ -20,22 +20,25 @@
 </p>
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 🏅 Olympic Games Medal Analysis Dashboard
 
-📌 Overview
-This Power BI dashboard analyzes Olympic medals by:
-- Country
-- Sport
-- Year (Summer & Winter)
+ 📌 Overview
+This Power BI dashboard provides an analytical view of Olympic medal performance across countries, sports, and Olympic seasons (Summer & Winter). It enables data-driven insights into medal distribution, top-performing nations, and athlete-level achievements.
 
-📊 Dashboard Preview
-![Dashboard Overview](dashboard_overview.png)
+  Dashboard Preview
+![Olympic Medal Analysis Dashboard](olympic_medal_dashboard.png)
 
-📈 KPI Summary
-![KPI Summary](kpi_summary.png)
+🔎 Key Insights
+- Medal distribution by country
+- Top 5 medal-winning countries
+- Medal breakdown by sport (Gold, Silver, Bronze)
+- Athlete-level medal details
+- Historical trends across Olympic years
 
-🗂 Medals Table
-![Medals Table](medals_table.png)
+🛠 Tools Used
+- Power BI
+- Microsoft Excel
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -46,7 +49,7 @@ This Power BI dashboard analyzes Olympic medals by:
 📌 Overview
 This Power BI dashboard provides a clear view of project schedule health by tracking milestones, overdue items, delayed tasks, and comparing planned vs actual progress. It helps stakeholders quickly spot risks and take action based on data.
 
-🖼 Dashboard Preview
+ Dashboard Preview
 ![Project Schedule Health Dashboard](schedule_health_dashboard.png)
 
 🔎 Key Highlights
