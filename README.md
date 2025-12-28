@@ -36,3 +36,27 @@ This Power BI dashboard analyzes Olympic medals by:
 
 🗂 Medals Table
 ![Medals Table](medals_table.png)
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
+
+📅 Project Schedule Health Dashboard
+
+📌 Overview
+This Power BI dashboard provides a clear view of project schedule health by tracking milestones, overdue items, delayed tasks, and comparing planned vs actual progress. It helps stakeholders quickly spot risks and take action based on data.
+
+🖼 Dashboard Preview
+![Project Schedule Health Dashboard](schedule_health_dashboard.png)
+
+🔎 Key Highlights
+- Milestones Achieved (%)
+- Milestones Overdue
+- Delayed Tasks
+- Planned vs Actual Progress
+- Overall Schedule Health Indicator
+
+🛠 Tools Used
+- Power BI
+- Microsoft Excel
+
